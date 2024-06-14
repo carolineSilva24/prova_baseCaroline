@@ -1,4 +1,5 @@
-[
+
+[ 
   {
     "id": "1",
     "name": "Espaguete à Carbonara",
@@ -10,7 +11,7 @@
       "Combine o espaguete, a pancetta e a mistura de ovos.",
       "Sirva com queijo parmesão extra."
     ],
-    "image": "/images/espaguete_carbonara.png"
+    "image": "/images/spaghetti_carbonara.png"
   },
   {
     "id": "2",

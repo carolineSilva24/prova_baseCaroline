@@ -1,4 +1,4 @@
-import "./globals.css";
+import "./globals.css"
 
 export default function RootLayout({
   children,
@@ -13,7 +13,7 @@ export default function RootLayout({
         </header>
         <main>{children}</main>
         <footer>
-          <p>Footer</p>
+          
         </footer>
       </body>
     </html>
